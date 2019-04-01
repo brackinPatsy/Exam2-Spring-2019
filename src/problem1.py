@@ -14,8 +14,8 @@ import testing_helper
 def main():
 
     """
-    Prompts the user for an integer until the sentinel value of
-    '-1' is encountered.  Tells the user the number of value that is input.
+    Prompts the user for an integer using the phrase "Input Number 1, Input Number 2 etc.
+    until the sentinel value of '-1' is encountered.
     Input integers are placed into a sequence until the
     sentinel value is encountered.
     After the sentinel value is encountered, the following information
@@ -24,7 +24,7 @@ def main():
     The length of the sequence,
     The maximum value in the sequence,
     The average of the values in the sequence,
-    Descriptive labels should be provided for each element that is printed.
+    Descriptive labels should be provided for each answer that is printed.
     You may assume that there is at least one element in the sequence.
 
 No input validation is required.  Nothing else should be printed.
