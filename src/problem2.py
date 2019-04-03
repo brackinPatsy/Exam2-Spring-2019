@@ -5,8 +5,12 @@ Authors: CSSE Faculty, Dr. Brackin, and PUT YOUR NAME HERE
          April, 2019.
 
 
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
-
+"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE. (-1 pt if you do NOT)
+####################################################################
+# TODO: 2. Commit and push this file- NOW.
+#          You will be penalized severely if you do NOT follow instructions
+# 1 Points
+####################################################################
 
 def main():
     """ Calls the   TEST   functions in this module. """
@@ -74,11 +78,12 @@ def shape(n):
     :type n: int
     """
     # ------------------------------------------------------------------
-    # TODO: 2. Implement and test this function.
+    # TODO: 3. Implement and test this function.
     #          Some tests are already written for you (above).
     ####################################################################
     # IMPORTANT: In your final solution for this problem,
     #   you must NOT use string multiplication.
+    # 9 points
     ####################################################################
 
 

@@ -5,7 +5,7 @@ Authors: All CSSE Faculty,Dr. Brackin, and
          PUT_YOUR_NAME_HERE.  
          April, 2019.
 
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE. (-1 pt if you do NOT)
 
 import time
 import testing_helper

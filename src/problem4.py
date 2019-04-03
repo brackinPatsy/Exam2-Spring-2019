@@ -4,7 +4,7 @@ Test 3, problem 4.
 Authors: Sriram Mohan, Dr. Brackin and 
          PUT YOUR NAME HERE.
          April, 2019
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE. (-1 pt if you do NOT)
 
 
 import time
