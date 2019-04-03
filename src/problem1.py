@@ -5,7 +5,12 @@ Authors: CSSE Faculty, Dr. Brackin, and
          PUT_YOUR_NAME_HERE.  
          April, 2019.
 
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE. (-1 pt if you do NOT)
+####################################################################
+# TODO: 2. Commit and push this file- NOW.
+#          You will be penalized severely if you do NOT follow instructions
+# 1 Points
+####################################################################
 
 import time
 import testing_helper
@@ -47,6 +52,7 @@ of the colons:
     # TODO: 2. Implement and test this function.
     #          A test has been written for you (above).
     #
+    # 9 points
     # -------------------------------------------------------------------------
 
 
