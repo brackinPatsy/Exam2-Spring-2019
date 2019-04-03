@@ -5,7 +5,11 @@ Authors: Sriram Mohan, Dr. Brackin and
          PUT YOUR NAME HERE.
          April, 2019
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE. (-1 pt if you do NOT)
-
+####################################################################
+# TODO: 2. Commit and push this file- NOW.
+#          You will be penalized severely if you do NOT follow instructions
+# 1 Points
+####################################################################
 
 import time
 import testing_helper
@@ -108,8 +112,10 @@ def problem4():
         I went hiking! Jack
     """
     # -----------------------------------------------------------------
-    # TODO: Implement and test this function.
+    # TODO:  3 Implement and test this function.
     #       The testing code is already written for you (above).
+    #
+    # 14 points
     # -----------------------------------------------------------------
 
 # ----------------------------------------------------------------------

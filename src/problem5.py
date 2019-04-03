@@ -6,6 +6,11 @@ Authors: All CSSE Faculty,Dr. Brackin, and
          April, 2019.
 
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE. (-1 pt if you do NOT)
+####################################################################
+# TODO: 2. Commit and push this file- NOW.
+#          You will be penalized severely if you do NOT follow instructions
+# 1 Points
+####################################################################
 
 import time
 import testing_helper
@@ -110,8 +115,10 @@ def problem5(seq_of_seq):
       :rtype: (list of characters) | str
     """
     # -------------------------------------------------------------------------
-    # TODO: 2. Implement and test this function.
+    # TODO: 3. Implement and test this function.
     #          Tests have been written for you (above).
+    #
+    # 14 Points
     # -------------------------------------------------------------------------
 
 
