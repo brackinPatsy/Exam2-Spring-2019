@@ -49,7 +49,7 @@ of the colons:
     The average value of the sequence is: 0
     """
     # -------------------------------------------------------------------------
-    # TODO: 2. Implement and test this function.
+    # TODO: 3. Implement and test this function.
     #          A test has been written for you (above).
     #
     # 9 points
